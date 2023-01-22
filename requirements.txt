@@ -1,0 +1,2 @@
+scipy
+facenet-pytorch==2.5.2
